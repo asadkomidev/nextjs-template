@@ -11,6 +11,7 @@
 
 ### Features:
 
+- Layered Architecture
 - 🔐 Kinde webhook to save user data to database
 - 🖥️ Dashboard layout
 - 🖥️ Home page layout
